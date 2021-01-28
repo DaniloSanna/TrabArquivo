@@ -7,9 +7,6 @@ import java.io.IOException;
 public class TagFileWriter_BufferedWriter {
 	public static void main(String[] args) {
 		
-		
-		
-		
 		//FileWrite - Cria o arquivo, cria um arquivo em branco em cima.
 		//FileWrite (path, true) - Acrescenta as informações as informações existentes, adiciona a inf ao final do arquivo.
 		
